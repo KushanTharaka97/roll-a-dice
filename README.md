@@ -8,5 +8,7 @@ It would provide you better entertainment at all.
 <br><br>
  <strong> The playing of an game in the roll-a-dice game</strong>
  <br>
- <img src="roll-a-dice-gameplay.gif" alt="roll-a-dice gameplay loading" />
+ <div >
+ <img align="center" src="roll-a-dice-gameplay.gif" alt="roll-a-dice gameplay loading" style="height:50%; weidth:30%"/>
+ </div>
 </p>
